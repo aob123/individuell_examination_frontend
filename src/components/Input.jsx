@@ -24,7 +24,7 @@ const Input = () => {
         return;
       }
 
-    const url = `https://individuellexaminationcicd-env.eba-vgxyd5jp.eu-north-1.elasticbeanstalk.com/${encipherment}/${string}`;
+    const url = `http://individuellexaminationcicd-env.eba-vgxyd5jp.eu-north-1.elasticbeanstalk.com/${encipherment}/${string}`;
 
     try {
       
